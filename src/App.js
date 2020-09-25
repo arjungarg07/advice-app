@@ -37,7 +37,7 @@ class App extends React.Component {
         <div className="card">
           <h1 className="heading">{advice}</h1>
           <button className="glow-on-hover" onClick={this.fetchAdvice}>
-            <span>GIVE ME ADVICE!</span>
+            <span>GIVE ME MY ADVICE:)</span>
           </button>
         </div>
       </div>
