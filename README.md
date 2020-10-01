@@ -1,0 +1,1 @@
+An advice app to make your day better and keep your focus on whats important!
